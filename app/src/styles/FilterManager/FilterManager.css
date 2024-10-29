@@ -1,0 +1,34 @@
+.filter-inputs {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+.action-buttons {
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.import-filter-input {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 9%;
+}
+
+
+
+.import-filter-input label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.creator-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  }

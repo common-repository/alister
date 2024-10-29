@@ -1,0 +1,19 @@
+.permalink-div {
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: #a09e9e;
+  border-style: solid;
+  background-color: white;
+  padding: 10px;
+  width: "max-content";
+  margin: 5px 10px;
+  white-space: nowrap;
+}
+
+.visible-on-hover {
+  display: none;
+}
+
+.MuiAccordionSummary-root:hover .visible-on-hover {
+  display: block;
+}

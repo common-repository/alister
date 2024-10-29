@@ -1,0 +1,32 @@
+{
+  "name": "alister",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "startlocal": "wp-scripts start --output-path=D:\\xampp\\htdocs\\ultimus\\wp-content\\plugins\\alister\\app\\build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/base": "^5.0.0-alpha.89",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.9.0",
+    "@wordpress/scripts": "^22.5.0"
+  },
+  "dependencies": {
+    "@mui/lab": "^5.0.0-alpha.100",
+    "autosuggest-highlight": "^3.3.4",
+    "draft-js": "^0.11.7",
+    "draftjs-to-html": "^0.9.1",
+    "lodash": "^4.17.21",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-draft-wysiwyg": "^1.15.0",
+    "web-vitals": "^2.1.4"
+  }
+}

@@ -1,0 +1,13 @@
+.text-editor-wrapper {
+  border: 1px solid #ddd;
+  background-color: #FFFFFF;
+}
+
+.editor-wrapper {
+  background-color: #FFFFFF;
+}
+
+.public-DraftEditor-content {
+  padding: 15px;
+  min-height: 100px;
+}
